@@ -1,6 +1,7 @@
 # DashReports
 
-[Дашборд в Dash](http://158.160.36.209:3000/)
+[Пример диаграммы в Dash*](https://asenachin.pythonanywhere.com/)  
+* - VDS сервер с дашбордом не работает.
 
 ## Описание  
 
