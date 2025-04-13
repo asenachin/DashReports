@@ -1,7 +1,7 @@
 # DashReports
 
 [Пример диаграммы в Dash*](https://asenachin.pythonanywhere.com/)  
-* \- VDS сервер с дашбордом не работает.
+\* \- VDS сервер с дашбордом не работает.
 
 ## Описание  
 
